@@ -1,0 +1,1 @@
+Os arquivos são relativos ao projeto 'novelaMexicana' que se baseia em um gerador aleatório do roteiro de uma novela mexicana. O projeto foi desenvolvido como trabalho final para a matéria de Programação Script no primeiro semestre do curso de Engenharia da Computação ministrado pela Faculdade Federal de Uberlândia.
